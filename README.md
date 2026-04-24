@@ -5,7 +5,7 @@ Machine Learning Enthusiast | Data Analysis | Automation
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
-###  Data Handling and  Machine Learning
+### Data Handling and  Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
   </p>
