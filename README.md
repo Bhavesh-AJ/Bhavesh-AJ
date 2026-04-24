@@ -1,4 +1,4 @@
-# Bhavesh Jadhav
+# Bhavesh A Jadhav
 Machine Learning Enthusiast | Data Analysis
 ##  Tech Stack
 Front End Development
