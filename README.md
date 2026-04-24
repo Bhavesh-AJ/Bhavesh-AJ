@@ -14,7 +14,7 @@
 
 ###  Data Handling and  Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy" />
+  <img src="https://skillicons.dev/icons?i=python" />
   </p>
 
 ### Programming
