@@ -13,13 +13,3 @@ Data Structures and Algorithms
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
 </p> 
-
-##  Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/bhavesh-jadhav-ab8b71254?">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-    <a href="mailto:bhaveshjadhav718l@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
