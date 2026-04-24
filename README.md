@@ -10,12 +10,12 @@
 - Python, Scikit-learn  
 
 ### 📊 Data Handling
-- Pandas<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" />
+- <p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>, NumPy  
 
 ### 💻 Programming
-- Java <p>
+- <p>
   <img src="https://skillicons.dev/icons?i=java" />
 </p> 
 
