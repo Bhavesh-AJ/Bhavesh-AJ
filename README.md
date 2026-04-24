@@ -6,16 +6,16 @@
 ---
 
 ## 🛠️ Tech Stack
-### 🧠 Machine Learning
-- Python, Scikit-learn  
-
-### 📊 Data Handling
-- <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>, NumPy  
+### 📊 Data Handling and 🧠 Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,numpy" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="48" height="48"/>
+</p>
 
 ### 💻 Programming
-- <p>
+<p>
   <img src="https://skillicons.dev/icons?i=java" />
 </p> 
 
