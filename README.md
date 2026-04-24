@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://pin.it/5ncWtTpfI" width="100%" />
-</p>
+<img width="600" height="400" alt="Glowing blue hexagon background containing network, wallpaper, and tile" src="https://github.com/user-attachments/assets/3a4b0dd6-a64d-42c0-b4e7-bd25161ae531" />
 
 <br>
 
