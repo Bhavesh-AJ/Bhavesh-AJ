@@ -1,3 +1,4 @@
+<img width="1200" height="300" alt="Untitled" src="https://github.com/user-attachments/assets/a457f024-176b-42cc-8ed9-a7102f67810b" />
 # Bhavesh Jadhav
 Machine Learning Enthusiast | Data Analysis | Automation
 ##  Tech Stack
