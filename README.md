@@ -24,16 +24,11 @@ Machine Learning Enthusiast | Data Analysis | Automation
   <a href="https://linkedin.com/in/bhavesh-jadhav-ab8b71254?">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
   </a>
-</p> 
-<p align="left">
   <a href="bhaveshjadhav718@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30"/>
   </a>
 </p>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-AJ&layout=compact&theme=tokyonight)
-<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;Data+Driven+Projects;Automation+Builder&center=true&width=500&height=50">
-
-
 
 
 
