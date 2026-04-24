@@ -1,5 +1,5 @@
 # Bhavesh Jadhav
-Machine Learning Enthusiast | Data Analysis | Automation
+Machine Learning Enthusiast | Data Analysis
 ##  Tech Stack
 Front End Development
 <p align="left">
