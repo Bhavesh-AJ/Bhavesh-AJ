@@ -22,9 +22,11 @@ Machine Learning Enthusiast | Data Analysis | Automation
 
 <p align="left">
   <a href="https://linkedin.com/in/bhavesh-jadhav-ab8b71254?">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-  </a><a href="mailto:bhaveshjadhav718email@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
