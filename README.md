@@ -6,12 +6,16 @@
 ---
 
 ## 🛠️ Tech Stack
-### 📊 Data Handling and 🧠 Machine Learning
+
+### Front End Development
+
+
+###  Data Handling and  Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,numpy" />
   </p>
 
-### 💻 Programming
+### Programming
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
 </p> 
@@ -20,6 +24,6 @@
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
