@@ -1,4 +1,8 @@
-![Banner]https://pin.it/5ncWtTpfI
+<p align="center">
+  <img src="https://pin.it/5ncWtTpfI" width="100%" />
+</p>
+
+<br>
 
 # Bhavesh Jadhav
 Machine Learning Enthusiast | Data Analysis | Automation
