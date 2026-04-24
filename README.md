@@ -1,52 +1,25 @@
-<table>
-  <tr>
-    <!-- LEFT SIDE -->
-    <td valign="top" width="60%">
-
-# Bhavesh Jadhav  
-Machine Learning Enthusiast | Data Analysis | Automation  
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend Development
+# Bhavesh Jadhav
+Machine Learning Enthusiast | Data Analysis | Automation
+##  Tech Stack
+Front End Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
-
-### 🧠 Data Handling & Machine Learning
+Data Handling and  Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 🧠 Data Structures & Algorithms
-<p align="left">
+  </p>
+Data Structures and Algorithms
+<p>
   <img src="https://skillicons.dev/icons?i=java" />
-</p>
+</p> 
 
-## 📫 Connect With Me
+##  Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/bhavesh-jadhav-ab8b71254?">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;&nbsp;
-  📧 your.email@gmail.com
+    <a href="mailto:bhaveshjadhav718l@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
-
-    </td>
-
-    <!-- RIGHT SIDE -->
-    <td valign="top" width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
-    </td>
-  </tr>
-</table>
